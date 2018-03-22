@@ -1,0 +1,20 @@
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\x86\Release\Tarifas.exe
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\x86\Release\Tarifas.pdb
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\x86\Release\Tarifas.xml
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.Form1.resources
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.Resources.resources
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.vbproj.GenerateResource.Cache
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.exe
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.xml
+C:\Users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\x86\Release\Tarifas.pdb
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\bin\x86\Release\Tarifas.exe.config
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.exe
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.xml
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.pdb
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\bin\x86\Release\Tarifas.exe
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\bin\x86\Release\Tarifas.pdb
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\bin\x86\Release\Tarifas.xml
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.vbprojResolveAssemblyReference.cache
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.Form1.resources
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.Resources.resources
+C:\Users\turus\Desktop\programas mios\Tarifas\Tarifas\obj\x86\Release\Tarifas.vbproj.GenerateResource.Cache

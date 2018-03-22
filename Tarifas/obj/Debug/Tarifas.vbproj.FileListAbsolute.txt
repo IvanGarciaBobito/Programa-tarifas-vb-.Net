@@ -1,0 +1,10 @@
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\Debug\Tarifas.exe
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\Debug\Tarifas.pdb
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\bin\Debug\Tarifas.xml
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.vbprojResolveAssemblyReference.cache
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.Form1.resources
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.Resources.resources
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.vbproj.GenerateResource.Cache
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.exe
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.xml
+c:\users\turus\documents\visual studio 2015\Projects\Tarifas\Tarifas\obj\Debug\Tarifas.pdb
